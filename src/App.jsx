@@ -5,7 +5,7 @@ function App() {
     return (
         <>
             <h5 className="blue">Making a code editor :(</h5>
-            <CodeEditorWindow></CodeEditorWindow>
+            <CodeEditorWindow />
         </>
     );
 }
