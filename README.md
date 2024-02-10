@@ -2,6 +2,8 @@
 
 [Live Demo](https://codeditor-idk.netlify.app/)
 
+[Inspiration for the project](https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/)
+
 ## Build a rich code editor that has the following features:
 
 -   A Code Editor (Monaco Editor) that powers VS Code too.
