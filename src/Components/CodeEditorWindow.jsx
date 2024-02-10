@@ -21,13 +21,19 @@ const CodeEditorWindow = () => {
             "",
             "const joke = jokePunchline(jokeSetup());",
             "console.log(joke); // Brace yourself for an outburst of laughter!",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
         ].join("\n");
     }
 
     return (
         <div className="editor">
             <Editor
-                height="45vh"
+                height="50vh"
                 width={`100%`}
                 value={getCode()}
                 language="javascript"

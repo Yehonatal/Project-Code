@@ -1,11 +1,17 @@
 import "./App.css";
 import CodeEditorWindow from "./Components/CodeEditorWindow";
+// import CustomInputWindow from "./Components/CustomInputWindow";
+// import CodeOutPutWIndow from "./Components/CodeOutPutWIndow";
 
 function App() {
     return (
         <>
-            <h5 className="blue">Making a code editor :(</h5>
+            <h3>PROJECT CODE</h3>
             <CodeEditorWindow />
+            {/* <div className="bottom">
+                <CodeOutPutWIndow />
+                <CustomInputWindow />
+            </div> */}
         </>
     );
 }

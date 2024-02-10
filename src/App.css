@@ -1,0 +1,26 @@
+.bottom {
+    margin-top: 25px;
+    display: flex;
+    gap: 25px;
+    font-weight: bold;
+}
+.bottom p {
+    margin: 0;
+    border: 1px solid green;
+    padding: 0.5em;
+    opacity: 0.5;
+}
+
+.bottom div {
+    border: 2px solid #121212;
+    padding: 0.5em;
+    width: 100%;
+}
+
+.output {
+    flex: 3;
+}
+
+.custom {
+    flex: 1;
+}
